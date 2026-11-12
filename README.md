@@ -7,4 +7,4 @@ I am an IT student at Govt.Graduate College(W), passionate about Full-Stack Web 
 💬 **Ask me about:** PHP, SQL, HTML, CSS, and JavaScript.
 
 ### 🚀 My Top Projects
-- **[QR Food Hub](https:/ayesha-codex-hue/github.com//qr-food-hub):** A QR-based restaurant ordering system with real-time admin alerts and dynamic QR code generation.
+- **[QR Food Hub](https://github.com/ayesha-codex-hue/qr-food-hub):** A QR-based restaurant ordering system with real-time admin alerts and dynamic QR code generation.
